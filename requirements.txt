@@ -1,0 +1,9 @@
+azure-identity>=1.19
+azure-ai-projects>=2.0
+azure-ai-contentunderstanding>=1.1
+openai>=1.99
+requests
+python-dotenv
+pypdf>=5
+reportlab>=4
+pillow>=10.1
